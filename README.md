@@ -1,4 +1,4 @@
-# calculadoraDeMedida
+# calculadoraDeMedia
 Projeto realizado na primeira aula da ImersãoDev.
 ##
 
