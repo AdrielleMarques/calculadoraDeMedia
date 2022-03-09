@@ -7,5 +7,5 @@ Foi realizado um contador de média, usando JavaScript e CSS para a costumizaç�
 
 ##
 <div align="center">
-  <img height= "300em" src="calculadoraDeMedia.gif">
+  <img height= "200em" src="calculadoraDeMedia.gif">
 </div>
