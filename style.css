@@ -1,3 +1,7 @@
+:root {
+  --cor-letras: #ffffff;
+}
+
 body {
   font-family: 'Roboto Mono',monospace;
   min-height: 400px;
@@ -15,12 +19,12 @@ body {
 }
 
 .page-title {
-  color:#ffffff;
+  color: var(--cor-letras);
   margin: 0 0 5px;
 }
 
 .page-subtitle {
-  color:#ffffff;
+  color: var(--cor-letras);
   margin-top: 5px;
 }
 
@@ -38,7 +42,7 @@ body {
   margin-top:20px;
   margin-left: auto;
   margin-right: auto;
-  color: white;
+  color: var(--cor-letras);
   font-size: 18px;
 }
 
